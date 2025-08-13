@@ -26,16 +26,9 @@ const About = () => {
           >
             <p>
               I'm <strong>Trịnh Quang Sang</strong>, a final-year student majoring in 
-              Software Engineering at the University of Information Technology (UIT), 
-              expected to graduate in August 2025. I have a solid foundation in mobile 
-              application development, specializing in React Native and frontend technologies 
-              with TypeScript and JavaScript.
-            </p>
-            <p>
-              With hands-on experience as a <strong>Mobile Developer Intern</strong>, I've 
-              contributed to real production projects including gas tracking applications 
-              and e-commerce platforms. I have good command of English and am capable of 
-              reading technical documentation and communicating in professional contexts.
+              Software Engineering at the University of Information Technology (UIT). 
+              I have a solid foundation in mobile application development, specializing 
+              in React Native and frontend technologies with TypeScript and JavaScript.
             </p>
             <p>
               I aspire to become a skilled mobile and frontend developer, contributing to the development 
@@ -63,7 +56,7 @@ const About = () => {
               transition={{ duration: 0.4 }}
             >
               <img 
-                src="/assets/avt.png" 
+                src="/assets/avt1.jpg" 
                 alt="Developer" 
               />
             </motion.div>

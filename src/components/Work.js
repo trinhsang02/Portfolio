@@ -86,7 +86,7 @@ const Work = () => {
           transition={{ delay: 0.2, duration: 0.8 }}
           viewport={{ once: true }}
         >
-          A collection of personal projects showcasing my skills in mobile and web development
+          A collection of personal projects showcasing my skills in mobile, web development and blockchain technologies.
         </motion.p>
 
         <div className="projects-grid">
